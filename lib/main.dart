@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:my_expenses/widgets/chart.dart';
 
+import 'package:my_expenses/widgets/chart.dart';
 import 'package:my_expenses/widgets/new_transaction.dart';
 import 'package:my_expenses/widgets/transaction_list.dart';
 
